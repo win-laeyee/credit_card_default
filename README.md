@@ -38,5 +38,5 @@ Class imbalance is addressed using Synthetic Minority Over-sampling Technique (S
 
 ## Model Evaluation
 
-Model performance is evaluated using the F1-score, a metric that balances precision and recall. The F1-score provides a comprehensive view of model effectiveness in predicting credit card defaults.
+Model performance is evaluated using the F1-score, a metric that balances precision and recall. The F1-score provides a comprehensive view of model effectiveness in predicting credit card defaults. Random Forest gives the highest F-1 score of 0.7871.
 
